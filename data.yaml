@@ -1,0 +1,5 @@
+train: C:\Users\Admin\Waste-Detection-using-YOLO-V5\New folder\train
+val: C:\Users\Admin\Waste-Detection-using-YOLO-V5\New folder\valid
+
+nc = 13
+names = ['banana','chilli','drinkcan','drinkpack','foodcan','lettuce','paperbag','placticbag','plasticbottle','plasticcontainer','sweetpotato','teabag','tissueroll']
